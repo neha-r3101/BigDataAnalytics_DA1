@@ -1,0 +1,4 @@
+Stock Symbol: HCLTECH
+Count: 5299
+Sum: 3339979.25
+Average: 630.30
